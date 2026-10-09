@@ -1,0 +1,25 @@
+{
+  "name": "lightpanda-stagehand",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "bun run ./src/index.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/node": "^26.6.4"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@ai-sdk/google": "^4.0.93",
+    "@browserbasehq/stagehand": "^4.1.0",
+    "@mediar-ai/terminator": "^0.24.32",
+    "ai": "^7.0.136",
+    "dotenv": "^18.0.6",
+    "grammy": "^1.46.0",
+    "zod": "~4.4.3"
+  }
+}
