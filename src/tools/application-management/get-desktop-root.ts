@@ -1,6 +1,6 @@
 import { tool } from "ai";
 import z from "zod";
-import { desktop } from "../desktop";
+import { desktop } from "../../desktop";
 
 export const getDesktopRoot = tool({
   description: "Get the root UI element of the desktop using Terminator.",

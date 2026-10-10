@@ -1,0 +1,77 @@
+{
+  "buttonCount": 51,
+  "buttons": [
+    { "id": "290736", "name": "Minimize" },
+    { "id": "623469", "name": "Restore" },
+    { "id": "130525", "name": "Close" },
+    { "id": "187555", "name": "Go Back (Alt+LeftArrow)" },
+    { "id": "117890", "name": "Go Forward (Alt+RightArrow)" },
+    { "id": "117761", "name": "Open Quick Access" },
+    { "id": "159331", "name": "Toggle Chat" },
+    { "id": "132438", "name": "Toggle Chat" },
+    { "id": "981569", "name": "More Actions" },
+    { "id": "442112", "name": "Open in Agents Window (Ctrl+Shift+Alt+A)" },
+    { "id": "284974", "name": "Customize Layout..." },
+    { "id": "705665", "name": "Toggle Primary Side Bar (Ctrl+B)" },
+    { "id": "998301", "name": "Toggle Panel (Ctrl+J)" },
+    { "id": "165667", "name": "Toggle Secondary Side Bar (Ctrl+Alt+B)" },
+    { "id": "179304", "name": "Accounts - Sign in to Sync Settings" },
+    { "id": "141474", "name": "Manage" },
+    { "id": "124054", "name": "Views and More Actions..." },
+    { "id": "437477", "name": "Explorer Section: stagehand-automation" },
+    { "id": "186378", "name": "Outline Section" },
+    { "id": "175151", "name": "Timeline Section" },
+    { "id": "118558", "name": "Close (Ctrl+F4)" },
+    { "id": "118558", "name": "Close (Ctrl+F4)" },
+    { "id": "942776", "name": "Open Changes" },
+    {
+      "id": "851378",
+      "name": "Split Editor Right (Ctrl+\\) [Alt] Split Editor Down"
+    },
+    { "id": "161938", "name": "More Actions..." },
+    { "id": "441169", "name": "Previous Match (Shift+Enter)" },
+    { "id": "478822", "name": "Next Match (Enter)" },
+    { "id": "512897", "name": "Close (Escape)" },
+    {
+      "id": "106646",
+      "name": "Focus Terminal (Ctrl+DownArrow) [Alt] Split Terminal (Ctrl+Shift+5)"
+    },
+    {
+      "id": "563270",
+      "name": "New Terminal (Ctrl+Shift+`) [Alt] Split Terminal (Ctrl+Shift+5)"
+    },
+    {
+      "id": "539258",
+      "name": "New Terminal (Ctrl+Shift+`) [Alt] Split Terminal (Ctrl+Shift+5)"
+    },
+    { "id": "158599", "name": "Launch Profile..." },
+    { "id": "113084", "name": "Split Terminal (Ctrl+Shift+5)" },
+    { "id": "696264", "name": "Kill Terminal" },
+    { "id": "124054", "name": "Views and More Actions..." },
+    { "id": "125546", "name": "Maximize Panel" },
+    { "id": "439699", "name": "Hide Panel (Ctrl+J)" },
+    { "id": "110874", "name": "remote" },
+    {
+      "id": "106930",
+      "name": "stagehand-automation (Git) - main*, Checkout Branch/Tag..."
+    },
+    {
+      "id": "833833",
+      "name": "stagehand-automation (Git) - Synchronize Changes"
+    },
+    { "id": "175034", "name": "No Problems" },
+    { "id": "596384", "name": "Notifications" },
+    { "id": "890987", "name": "check Prettier" },
+    { "id": "178884", "name": "Inline suggestions disabled" },
+    { "id": "270230", "name": "TypeScript" },
+    {
+      "id": "247822",
+      "name": "Editor Language Status: tsconfig.json, next: 6.0.0-dev.20260416, TypeScript version, next: Prettier, next: $(copilot) No inline suggestion available, Inline suggestions"
+    },
+    { "id": "271422", "name": "CRLF" },
+    { "id": "106415", "name": "UTF-8" },
+    { "id": "777140", "name": "Spaces: 2" },
+    { "id": "124746", "name": "Ln 1, Col 1" },
+    { "id": "391661", "name": "Screen Reader Optimized" }
+  ]
+}

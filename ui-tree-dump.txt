@@ -1,0 +1,343 @@
+- [Window] get-window-tree-result.ts - stagehand-automation - Visual Studio Code - Untracked (focused)
+  #1 [Pane] (bounds: [0,0,1537,863], disabled, focusable)
+  - [Pane] get-window-tree-result.ts - stagehand-automation - Visual Studio Code - Untracked
+    - [Pane]
+      - [Pane]
+        - [Pane]
+          #2 [Button] Minimize (bounds: [1366,0,57,43], focusable)
+          #3 [Button] Restore (bounds: [1422,0,59,43], focusable)
+          #4 [Button] Close (bounds: [1479,0,59,43], focusable)
+        - [Pane]
+          - [Pane]
+            - [Pane]
+              - [Pane]
+                #5 [Document] get-window-tree-result.ts - stagehand-automation - Visual Studio Code - Untracked (bounds: [0,0,1538,864], focusable)
+                  - [Group]
+                    - [Pane]
+                      - [Group]
+                      - [Group]
+                      - [Group]
+                      - [MenuBar]
+                        #6 [MenuItem] File (bounds: [43,0,46,45], focusable)
+                        #7 [MenuItem] Edit (bounds: [87,0,48,45], focusable)
+                        #8 [MenuItem] Selection (bounds: [134,0,87,45], focusable)
+                        #9 [MenuItem] View (bounds: [218,0,55,45], focusable)
+                        #10 [MenuItem] Go (bounds: [272,0,43,45], focusable)
+                        #11 [MenuItem] Run (bounds: [313,0,49,45], focusable)
+                        #12 [MenuItem] More (bounds: [360,0,49,45], focusable)
+                      - [ToolBar]
+                        #13 [Button] Go Back (Alt+LeftArrow) (bounds: [443,8,30,29], focusable)
+                        #14 [Button] Go Forward (Alt+RightArrow) (bounds: [476,8,29,29], disabled, focusable)
+                        #15 [ToolBar] Agent Status (bounds: [508,7,586,31], focusable)
+                          #16 [Button] Open Quick Access (bounds: [509,8,521,29], focusable)
+                          #17 [Group] (bounds: [1028,8,65,29], focusable)
+                            - [Button] Toggle Chat
+                              - [Button] Toggle Chat
+                            - [Group]
+                              - [Group]
+                                - [Button] More Actions
+                      - [ToolBar]
+                        #18 [Button] Open in Agents Window (Ctrl+Shift+Alt+A) (bounds: [1104,8,32,29], focusable)
+                      - [ToolBar] Title actions
+                        #19 [Button] Customize Layout... (bounds: [1236,8,29,29], focusable)
+                        #20 [Button] Toggle Primary Side Bar (Ctrl+B) (bounds: [1268,8,29,29], focusable)
+                          - [Text] 
+                        #21 [Button] Toggle Panel (Ctrl+J) (bounds: [1301,8,29,29], focusable)
+                          - [Text] 
+                        #22 [Button] Toggle Secondary Side Bar (Ctrl+Alt+B) (bounds: [1333,8,29,29], focusable)
+                          - [Text] 
+                      - [Group]
+                      - [Group]
+                      - [Group]
+                      - [Tab] Active View Switcher
+                        #23 [TabItem] Explorer (Ctrl+Shift+E) (bounds: [9,47,47,47], focusable)
+                          - [Group] Explorer (Ctrl+Shift+E)
+                        #24 [TabItem] Search (Ctrl+Shift+F) (bounds: [9,102,47,46], focusable)
+                          - [Group] Search (Ctrl+Shift+F)
+                        #25 [TabItem] Source Control (Ctrl+Shift+G) - 26 pending changes (bounds: [9,157,47,47], focusable)
+                          - [Group] Source Control (Ctrl+Shift+G) - 26 pending changes
+                          - [Group] Source Control (Ctrl+Shift+G) - 26 pending changes
+                        #26 [TabItem] Run and Debug (Ctrl+Shift+D) (bounds: [9,211,47,47], focusable)
+                          - [Group] Run and Debug (Ctrl+Shift+D)
+                        #27 [TabItem] Extensions (Ctrl+Shift+X) (bounds: [9,266,47,47], focusable)
+                          - [Group] Extensions (Ctrl+Shift+X)
+                        #28 [TabItem] Thunder Client (Ctrl+Shift+R) (bounds: [9,320,47,47], focusable)
+                          - [Group] Thunder Client (Ctrl+Shift+R)
+                        #29 [TabItem] Vercel (bounds: [9,375,47,46], focusable)
+                          - [Group] Vercel
+                        #30 [TabItem] Vercel Deployment (bounds: [9,430,47,46], focusable)
+                          - [Group] Vercel Deployment
+                        #31 [TabItem] Python (bounds: [9,484,47,47], focusable)
+                          - [Group] Python
+                      - [ToolBar] Manage
+                        #32 [Button] Accounts - Sign in to Sync Settings (bounds: [9,718,47,47], focusable)
+                          - [Group] Accounts - Sign in to Sync Settings
+                          - [Group] Accounts - Sign in to Sync Settings
+                            - [Text] 1
+                        #33 [Button] Manage (bounds: [9,773,47,47], focusable)
+                          - [Group] Manage
+                            - [Text] 
+                      - [Text] Explorer
+                      - [ToolBar] Explorer actions
+                        - [Group]
+                          - [Group]
+                            #34 [Button] Views and More Actions... (bounds: [398,50,29,29], focusable)
+                      - [ToolBar]
+                      - [Group]
+                      - [Group]
+                      #35 [Button] Explorer Section: stagehand-automation (bounds: [65,83,361,37], focusable)
+                        - [Text] Explorer Section: stagehand-automation
+                      #36 [Tree] Files Explorer (bounds: [60,118,371,630], focusable)
+                        #37 [TreeItem] database (bounds: [65,118,361,29], focusable)
+                          - [Group] D:\projects\stagehand-automation\database • Contains emphasized items
+                        #38 [TreeItem] node_modules (bounds: [65,146,361,29], focusable)
+                          - [Group] D:\projects\stagehand-automation\node_modules
+                        #39 [TreeItem] src (bounds: [65,173,361,29], focusable)
+                          - [Group] D:\projects\stagehand-automation\src • Contains emphasized items
+                        #40 [TreeItem] tools (bounds: [65,200,361,29], focusable)
+                          - [Group] D:\projects\stagehand-automation\src\tools • Contains emphasized items
+                        #41 [TreeItem] application-management (bounds: [65,227,361,29], focusable)
+                          - [Group] D:\projects\stagehand-automation\src\tools\application-management • Contains emphasized items
+                        #42 [TreeItem] window-and-tree-management (bounds: [65,254,361,29], focusable)
+                          - [Group] D:\projects\stagehand-automation\src\tools\window-and-tree-management • Contains emphasized items
+                        #43 [TreeItem] activate-browser-window-by-title.ts (bounds: [65,282,361,29], focusable)
+                          - [Group] D:\projects\stagehand-automation\src\tools\window-and-tree-management\activate-browser-window-by-title.ts • Untracked
+                        #44 [TreeItem] get-current-browser-window.ts (bounds: [65,309,361,30], focusable)
+                          - [Group] D:\projects\stagehand-automation\src\tools\window-and-tree-management\get-current-browser-window.ts • Untracked
+                        #45 [TreeItem] get-current-window.ts (bounds: [65,337,361,29], focusable)
+                          - [Group] D:\projects\stagehand-automation\src\tools\window-and-tree-management\get-current-window.ts • Untracked
+                        #46 [TreeItem] get-window-tree-result.ts (bounds: [65,364,361,29], focusable)
+                          - [Group] D:\projects\stagehand-automation\src\tools\window-and-tree-management\get-window-tree-result.ts • Untracked
+                        #47 [TreeItem] get-window-tree.ts (bounds: [65,391,361,29], focusable)
+                          - [Group] D:\projects\stagehand-automation\src\tools\window-and-tree-management\get-window-tree.ts • Untracked
+                        #48 [TreeItem] utils (bounds: [65,418,361,29], focusable)
+                          - [Group] D:\projects\stagehand-automation\src\utils
+                        #49 [TreeItem] desktop.ts (bounds: [65,446,361,29], focusable)
+                          - [Group] D:\projects\stagehand-automation\src\desktop.ts • Modified
+                        #50 [TreeItem] index.ts.ts (bounds: [65,473,361,29], focusable)
+                          - [Group] D:\projects\stagehand-automation\src\index.ts.ts • Modified
+                        #51 [TreeItem] instructions.ts (bounds: [65,500,361,29], focusable)
+                          - [Group] D:\projects\stagehand-automation\src\instructions.ts • Modified
+                        #52 [TreeItem] test (bounds: [65,527,361,29], focusable)
+                          - [Group] D:\projects\stagehand-automation\test • Contains emphasized items
+                        #53 [TreeItem] .env (bounds: [65,554,361,29], focusable)
+                          - [Group] D:\projects\stagehand-automation\.env
+                        #54 [TreeItem] .gitignore (bounds: [65,582,361,30], focusable)
+                          - [Group] D:\projects\stagehand-automation\.gitignore
+                        #55 [TreeItem] bun.lock (bounds: [65,610,361,29], focusable)
+                          - [Group] D:\projects\stagehand-automation\bun.lock • Modified
+                        #56 [TreeItem] count-tree-token.ts (bounds: [65,637,361,29], focusable)
+                          - [Group] D:\projects\stagehand-automation\count-tree-token.ts • Untracked
+                        #57 [TreeItem] package.json (bounds: [65,664,361,29], focusable)
+                          - [Group] D:\projects\stagehand-automation\package.json • Modified
+                        #58 [TreeItem] README.md (bounds: [65,691,361,29], focusable)
+                          - [Group] D:\projects\stagehand-automation\README.md
+                        #59 [TreeItem] test.ts (bounds: [65,718,361,29], focusable)
+                          - [Group] D:\projects\stagehand-automation\test.ts
+                      #60 [Button] Outline Section (bounds: [65,746,361,37], focusable)
+                        - [Text] Outline
+                      #61 [Button] Timeline Section (bounds: [65,782,361,36], focusable)
+                        - [Text] Timeline
+                      - [Group]
+                      - [Group]
+                        - [Group]
+                          - [Tab]
+                            #62 [TabItem] get-window-tree-result.ts (bounds: [437,44,275,41], focusable)
+                              - [Group] D:\projects\stagehand-automation\src\tools\window-and-tree-management\get-window-tree-result.ts • Untracked
+                              - [ToolBar] Tab actions
+                                #63 [Button] Close (Ctrl+F4) (bounds: [676,51,27,27], focusable)
+                          - [ToolBar] Editor actions
+                            #64 [Button] Open Changes (bounds: [1434,50,29,29], focusable)
+                            #65 [Button] Split Editor Right (Ctrl+\) [Alt] Split Editor Down (bounds: [1466,50,29,29], focusable)
+                            - [Group]
+                              - [Group]
+                                #66 [Button] More Actions... (bounds: [1498,50,30,29], focusable)
+                                  - [Text] 
+                          #67 [List] (bounds: [437,85,1095,29], focusable)
+                            #68 [ListItem] src (bounds: [437,85,62,29], focusable)
+                              - [Group] D:\projects\stagehand-automation\src • Contains emphasized items
+                                - [Text] src
+                              - [Text] 
+                            #69 [ListItem] tools (bounds: [497,85,56,29], focusable)
+                              - [Group] D:\projects\stagehand-automation\src\tools • Contains emphasized items
+                                - [Text] tools
+                              - [Text] 
+                            #70 [ListItem] window-and-tree-management (bounds: [551,85,246,29], focusable)
+                              - [Group] D:\projects\stagehand-automation\src\tools\window-and-tree-management • Contains emphasized items
+                                - [Text] window-and-tree-management
+                              - [Text] 
+                            #71 [ListItem]   get-window-tree-result.ts (bounds: [795,85,230,29], focusable)
+                              - [Group] D:\projects\stagehand-automation\src\tools\window-and-tree-management\get-window-tree-result.ts • Untracked
+                                - [Text]   
+                                - [Text] get-window-tree-result.ts
+                              - [Text] 
+                            #72 [ListItem] getWindowTreeResult (bounds: [1023,85,199,29], focusable)
+                              - [Text] 
+                              - [Group] getWindowTreeResult (variable)
+                                - [Text] getWindowTreeResult
+                              - [Text] 
+                            #73 [ListItem] execute (bounds: [1221,85,90,29], focusable)
+                              - [Text] 
+                              - [Group] execute (method)
+                                - [Text] execute
+                        - [Group] get-window-tree-result.ts
+                          - [Text]
+                            #74 [Edit] get-window-tree-result.ts (bounds: [437,112,928,3], focusable)
+                              - [Text] import { tool } from "ai";
+import z from "zod";
+import { desktop } from "../../desktop";
+import * as Terminator from "@mediar-ai/terminator";
+import path from "node:path";
+import { writeFile } from "node:fs/promises";
+
+export const getWindowTreeResult = tool({
+  description:
+    "Get the formatted desktop UI tree for a specified application window.",
+  inputSchema: z.object({
+    process: z.string().describe("Process name, such as Code or opera."),
+    title: z.string().optional().describe("Optional window title."),
+  }),
+  execute: async ({ process, title }) => {
+    try {
+      const result = desktop.getWindowTreeResult(process, title, {
+        formatOutput: true,
+        propertyMode: Terminator.PropertyLoadingMode.Smart,
+        treeOutputFormat: Terminator.TreeOutputFormat.CompactYaml,
+      });
+
+      const outputPath = path.resolve("ui-tree-dump.txt");
+
+      if (result.formatted === undefined) {
+        throw new Error("Terminator did not return formatted UI tree output.");
+      }
+
+      await writeFile(outputPath, result.formatted, "utf8");
+
+      return {
+        success: true,
+        process,
+        title: title ?? null,
+        // formatted: result.formatted,
+        savedTo: outputPath,
+      };
+    } catch (error) {
+      return {
+        success: false,
+        process,
+        title: title ?? null,
+        message: error instanceof Error ? error.message : String(error),
+      };
+    }
+  },
+});
+
+                            - [Group]
+                              - [Text] 8
+                              - [Text] 
+                              - [Text] 15
+                              - [Text] 
+                              - [List]
+                                #75 [ListItem] export const getWindowTreeResult = tool({ (bounds: [525,112,911,25], focusable)
+                                #76 [ListItem]   execute: async ({ process, title }) => { (bounds: [525,135,911,26], focusable)
+                            - [Window] Find / Replace
+                              - [Edit] Find (disabled)
+                              #77 [CheckBox] Match Case (Alt+C) (bounds: [1117,71,27,27], disabled, focusable)
+                              #78 [CheckBox] Match Whole Word (Alt+W) (bounds: [1144,71,27,27], disabled, focusable)
+                              #79 [CheckBox] Use Regular Expression (Alt+R) (bounds: [1171,71,27,27], disabled, focusable)
+                              - [Text] 6 of 6
+                              #80 [Button] Previous Match (Shift+Enter) (bounds: [1294,70,29,29], disabled, focusable)
+                              #81 [Button] Next Match (Enter) (bounds: [1325,70,29,29], disabled, focusable)
+                              #82 [CheckBox] Find in Selection (Alt+L) (bounds: [1354,70,29,29], disabled, focusable)
+                              #83 [Button] Close (Escape) (bounds: [1386,70,29,29], disabled, focusable)
+                              - [Group]
+                      - [Tab] Active View Switcher
+                        #84 [TabItem] Problems (Ctrl+Shift+M) (bounds: [439,397,93,42], focusable)
+                          - [Group] Problems (Ctrl+Shift+M)
+                        #85 [TabItem] Output (Ctrl+Shift+U) (bounds: [530,397,78,42], focusable)
+                          - [Group] Output (Ctrl+Shift+U)
+                        #86 [TabItem] Debug Console (Ctrl+Shift+Y) (bounds: [606,397,136,42], focusable)
+                          - [Group] Debug Console (Ctrl+Shift+Y)
+                        #87 [TabItem] Terminal (Ctrl+`) (bounds: [741,397,87,42], focusable)
+                          - [Group] Terminal (Ctrl+`)
+                        #88 [TabItem] Ports (bounds: [826,397,62,42], focusable)
+                          - [Group] Ports
+                      - [ToolBar] Terminal actions
+                        #89 [Button] Focus Terminal (Ctrl+DownArrow) [Alt] Split Terminal (Ctrl+Shift+5) (bounds: [1249,402,58,31], focusable)
+                        #90 [Button] New Terminal (Ctrl+Shift+`) [Alt] Split Terminal (Ctrl+Shift+5) (bounds: [1310,403,29,29], focusable)
+                          - [Button] New Terminal (Ctrl+Shift+`) [Alt] Split Terminal (Ctrl+Shift+5)
+                        - [Group]
+                          - [Group]
+                            #91 [Button] Launch Profile... (bounds: [1334,403,21,29], focusable)
+                        #92 [Button] Split Terminal (Ctrl+Shift+5) (bounds: [1358,403,29,29], focusable)
+                        #93 [Button] Kill Terminal (bounds: [1390,403,29,29], focusable)
+                        - [Group]
+                          - [Group]
+                            #94 [Button] Views and More Actions... (bounds: [1422,403,29,29], focusable)
+                        #95 [Group] (bounds: [1459,407,3,22], disabled, focusable)
+                      - [ToolBar]
+                        #96 [Button] Maximize Panel (bounds: [1466,403,29,29], focusable)
+                          - [Text] 
+                        #97 [Button] Hide Panel (Ctrl+J) (bounds: [1498,403,30,29], focusable)
+                      - [Group]
+                        - [Group]
+                          - [List]
+                            #98 [ListItem] PS D:\projects\stagehand-automation> bun run dev (bounds: [437,437,501,23], focusable)
+                            #99 [ListItem] $ bun run ./src/index.ts (bounds: [437,458,251,23], focusable)
+                            #100 [ListItem]   (bounds: [437,480,12,23], focusable)
+                            #101 [ListItem]   (bounds: [437,502,12,23], focusable)
+                            #102 [ListItem]   (bounds: [437,523,12,23], focusable)
+                            #103 [ListItem]   (bounds: [437,545,12,23], focusable)
+                            #104 [ListItem]   (bounds: [437,566,12,23], focusable)
+                            #105 [ListItem]   (bounds: [437,588,12,23], focusable)
+                            #106 [ListItem]   (bounds: [437,610,12,23], focusable)
+                            #107 [ListItem]   (bounds: [437,631,12,23], focusable)
+                            #108 [ListItem]   (bounds: [437,653,12,23], focusable)
+                            #109 [ListItem]   (bounds: [437,674,12,23], focusable)
+                            #110 [ListItem]   (bounds: [437,696,12,23], focusable)
+                            #111 [ListItem]   (bounds: [437,718,12,23], focusable)
+                            #112 [ListItem]   (bounds: [437,739,12,23], focusable)
+                            #113 [ListItem]   (bounds: [437,761,12,23], focusable)
+                          - [Group]
+                            - [Text] bun run dbun run debun run dev $ bun run ./src/index.ts
+                          - [Image]
+                          - [Group]
+                            #114 [Edit] Terminal 1, bun Use Alt+F1 for terminal accessibility help (bounds: [462,500,12,23], focused, focusable)
+                            - [Text] 
+                            - [Image]
+                            - [Image]
+                      #115 [StatusBar] (bounds: [0,828,1538,36], focusable)
+                        - [Group] remote
+                          #116 [Button] remote (bounds: [12,828,34,31], focusable)
+                        - [Group] stagehand-automation (Git) - main*, Checkout Branch/Tag...
+                          #117 [Button] stagehand-automation (Git) - main*, Checkout Branch/Tag... (bounds: [50,828,71,31], focusable)
+                        - [Group] stagehand-automation (Git) - Synchronize Changes
+                          #118 [Button] stagehand-automation (Git) - Synchronize Changes (bounds: [120,828,30,31], focusable)
+                        - [Group] No Problems
+                          #119 [Button] No Problems (bounds: [158,828,82,31], focusable)
+                        - [Group] Notifications
+                          #120 [Button] Notifications (bounds: [1491,828,37,31], focusable)
+                        - [Group] check Prettier
+                          #121 [Button] check Prettier (bounds: [1403,828,86,31], focusable)
+                        - [Group] Inline suggestions disabled
+                          #122 [Button] Inline suggestions disabled (bounds: [1364,828,34,31], focusable)
+                        - [Group] TypeScript
+                          #123 [Button] TypeScript (bounds: [1278,828,77,31], focusable)
+                        - [Group] Editor Language Status: tsconfig.json, next: 6.0.0-dev.20260416, TypeScript version, next: Prettier, next: $(copilot) No inline suggestion available, Inline suggestions
+                          #124 [Button] Editor Language Status: tsconfig.json, next: 6.0.0-dev.20260416, TypeScript version, next: Prettier, next: $(copilot) No inline suggestion available, Inline suggestions (bounds: [1251,828,29,31], focusable)
+                        - [Group] CRLF
+                          #125 [Button] CRLF (bounds: [1196,828,47,31], focusable)
+                        - [Group] UTF-8
+                          #126 [Button] UTF-8 (bounds: [1138,828,53,31], focusable)
+                        - [Group] Spaces: 2
+                          #127 [Button] Spaces: 2 (bounds: [1057,828,75,31], focusable)
+                        - [Group] Ln 35, Col 40
+                          #128 [Button] Ln 35, Col 40 (bounds: [953,828,99,31], focusable)
+                        - [Group] Screen Reader Optimized
+                          #129 [Button] Screen Reader Optimized (bounds: [763,828,187,31], focusable)
+                      - [Text]
+                        - [Text] 6 of 6 found for 'await', at 3780:451
+                      - [Text]
+                      - [Group]
+                        - [Text] Command Succeeded
+                      - [Group]
+              - [Pane]
